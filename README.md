@@ -1,6 +1,13 @@
 ### Hi there 👋
 Aprendendo um pouco a cada dia...
 
+#HTML
+#CSS
+#SASS
+#JavaScript
+#Vue.JS
+
+
 <!--
 **ander0308/ander0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
