@@ -5,6 +5,7 @@ Aprendendo um pouco a cada dia...
 #CSS
 #SASS
 #JavaScript
+#React
 #Vue.JS
 
 
