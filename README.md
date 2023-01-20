@@ -26,6 +26,7 @@ Apaixonado por tecnologia e sigo aprendendo um pouco a cada dia... 🤓💙👨�
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white "Docker")
 ![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white "Graphql")
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white "Strapi")
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white "Figma")
 
 
 **Meus Contatos:**
