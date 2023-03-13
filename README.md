@@ -17,6 +17,8 @@ Apaixonado por tecnologia e sigo aprendendo um pouco a cada dia... 🤓💙👨�
 ![NEXTJS](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white "NEXTJS") 
 ![VUE.js](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white "VUE") 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP") 
+![NODE.JS](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white "NODE") 
+![EXPRESS](https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=black "EXPRESS") 
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-1572B6?style=for-the-badge&logo=wordpress&logoColor=white "WORDPRESS")  
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "GIT") 
 ![GITHUB](https://img.shields.io/badge/GitHub-2D333B?style=for-the-badge&logo=github&logoColor=white "GITHUB") 
@@ -26,6 +28,7 @@ Apaixonado por tecnologia e sigo aprendendo um pouco a cada dia... 🤓💙👨�
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white "Docker")
 ![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white "Graphql")
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white "Strapi")
+![Prismic](https://img.shields.io/badge/Prismic-FFFFFF?style=for-the-badge&logo=prismic&logoColor=black "Prismic")
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white "Figma")
 
 
